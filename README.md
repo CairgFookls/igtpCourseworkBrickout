@@ -1,2 +1,1 @@
 # igtpCourseworkBrickout
-Craig Foulkes
